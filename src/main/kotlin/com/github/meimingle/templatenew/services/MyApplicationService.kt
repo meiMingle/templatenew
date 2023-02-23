@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.meimingle.templatenew.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.meimingle.templatenew.MyBundle
 
 class MyApplicationService {
 
